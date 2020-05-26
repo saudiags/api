@@ -1,0 +1,22 @@
+{
+  "name": "BackEndServer",
+  "description": "Apion",
+  "website": "https://github.com/saudiags/api",
+  "repository": "https://github.com/saudiags/api",
+
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/saudiags/api"
+  }
+}
